@@ -1,11 +1,11 @@
-# Привет! Я Мухаммед 👋
+# Hi there! I'm Mukhammed 👋
 
-🔭 Сейчас учусь и развиваюсь как Go Backend Developer  
-📚 Прошел уже несколько учебных проектов, выкладываю их на GitHub  
-🎯 Цель — стать Junior+ разработчиком в Go  
-🌍 Открыт к удаленной работе и релокации  
+🔭 I'm currently learning and growing as a Go Backend Developer  
+📚 I've completed several learning projects and shared them here on GitHub  
+🎯 My goal is to become a Junior+ Go developer  
+🌍 Open to remote work and relocation opportunities   
 
-## 🚀 Стек технологий:
+## 🚀 Tech Stack:
 - Golang 
 - PostgreSQL
 - Docker
@@ -13,12 +13,12 @@
 - Git
 
 ## 📂 Проекты:
-🔹 [Upload/Downlaod на Go](https://github.com/MukhammedK/toolkit)  
-🔹 [Передача данных через API](https://github.com/MukhammedK/CryptoCompare)  
-🔹 [API для выполнение CRUD](https://github.com/MukhammedK/library-api)
+🔹 [Upload/Downlaod in Go](https://github.com/MukhammedK/toolkit)  
+🔹 [Getting real-time data with API](https://github.com/MukhammedK/CryptoCompare)  
+🔹 [API to do CRUD](https://github.com/MukhammedK/library-api)
 
 ---
 
-💬 Свяжитесь со мной:
+💬 Get in touch:
 - Telegram: [@mkaldybay](https://t.me/mkaldybay)
 - Email: mukhammedkaldybay@email.com
